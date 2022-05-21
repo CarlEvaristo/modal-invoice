@@ -44,6 +44,7 @@ main {
     border-radius: 7px;
     padding: 10px 15px;
     margin: 15px 8px;
+    cursor: pointer;
 }
 .task-btn:hover, .task-btn:focus {
     background: lightgray;
@@ -111,6 +112,7 @@ main {
     padding: 10px 0;
     border: none;
     border-radius: 7px;
+    cursor: pointer;
 }
 #invoice-btn:hover, #invoice-btn:focus {
     background: #0369A1;
@@ -126,6 +128,7 @@ main {
     font-weight: 400;
     margin-left: 15px;
     vertical-align: middle;
+    cursor: pointer;
 }
 .remove-btn:hover, .remove-btn:focus {
     color: #000;
